@@ -2,6 +2,8 @@
 
 Legacery is a compatibility layer that translates Discord v10 responses to older versions. (v8+, v2-v6 experimental)
 
+Not complete lmao
+
 ## Disclaimer
 
 Although this project does not do extra stuff beyond translating calls, as old clients get funky, modern Discord might think you're self-botting. While not garantee, there is still a chance you'll be banned.
