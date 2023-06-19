@@ -6,7 +6,7 @@ Not complete lmao
 
 ## Disclaimer
 
-Although this project does not do extra stuff beyond translating calls, as old clients get funky, modern Discord might think you're self-botting. While not garantee, there is still a chance you'll be banned.
+Although this project does not do extra stuff beyond translating calls, as old clients get funky (like v2 client spamming WS PING request every second), modern Discord might think you're self-botting. While not garantee, there is still a chance you'll be banned.
 
 ## Why
 
