@@ -20,6 +20,6 @@ Voice support might not be supported. I think 80% unlikely that voice support wi
 
 ## Setup
 
-WIP, but I'm using a downloaded Discord frontend to test. Any options on this page from [Reflectcord wiki](https://github.com/V3L0C1T13S/reflectcord/wiki/Discord-Apps-Wiki) would work.
+WIP, but I'm using a downloaded Discord frontend to test. Official Discord Client works either via from stuff in [CordArchive](https://github.com/cordarchive) or using [Diproxi](https://github.com/V3L0C1T13S/reflectcord/blob/main/docs/diproxi_setup.md). Third party clients might work.
 
 ## Screenshots
